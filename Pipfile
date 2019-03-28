@@ -1,0 +1,19 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+pandas = "*"
+altair = "*"
+ipykernel = "*"
+vega = "==1.4.0"
+notebook = "*"
+vega-datasets = "*"
+jupyter = "*"
+xlrd = "*"
+
+[requires]
+python_version = "3.6"
