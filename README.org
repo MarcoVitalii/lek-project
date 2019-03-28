@@ -1,3 +1,3 @@
-* Master thesys project
+* Master thesis project
 
 This repository contains data analysis and models to study the lekking behaviour of different species of grouse.
