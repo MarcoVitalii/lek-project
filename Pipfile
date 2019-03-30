@@ -14,6 +14,8 @@ notebook = "*"
 vega-datasets = "*"
 jupyter = "*"
 xlrd = "*"
+matplotlib = "*"
+scipy = "*"
 
 [requires]
 python_version = "3.6"
