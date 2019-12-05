@@ -1,6 +1,6 @@
 * Master thesis project
 
-This repository contains data analysis and models to study the lekking behaviour of different species of grouse.
+This repository contains data analysis to study the lekking behaviour of different species of grouses.
 
 
 The dataset used is from Kervinen M, Lebigre C, Soulsbury CD (2016) Data from: Simultaneous age-dependent and age-independent sexual selection in the lekking black grouse (Lyrurus tetrix). Dryad Digital Repository. https://doi.org/10.5061/dryad.2jj6q,  distributed under an open data and CC0 1.0 universal licence.
